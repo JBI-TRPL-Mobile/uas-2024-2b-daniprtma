@@ -7,17 +7,17 @@
 
 ## Wireframe Project
 #
-### Wireframe Splash Screen
+### Wireframe Login Screen
 
 ### Wireframe Sign In
 
 ### Wireframe Sign Up
 
-### Wireframe Home
+### Wireframe Home Screen
 
 ### Wireframe Massages
 
-### Wireframe Profile Log Out
+### Wireframe Welcome Screen
 
 ### Wireframe Profile
 
